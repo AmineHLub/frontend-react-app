@@ -1,56 +1,45 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Frontend react app to display greetings
 
-> Description the project.
+> This app will display greetings in different languages upon refresh.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- React
+- Redux
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- git
+
 ### Setup
 
-### Install
+- clone both repos : front/back
 
-### Usage
+npm -i
 
-### Run tests
+Run the backend side(api) which should use **port 3000**
 
-### Deployment
+Run npm start
+
+navigate to : root:[port]/hello
 
 
+👤 **Mohamed Amine**
 
-## Authors
+- GitHub: [@AmineHLub](https://github.com/AmineHLub)
+- Twitter: [@Amino47612441](https://twitter.com/Amino47612441)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hajltaief-b18863163/)
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
